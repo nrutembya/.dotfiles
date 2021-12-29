@@ -122,4 +122,4 @@ let g:NERDTreeGitStatusShowIgnored = 1    " Show ignored status
 
 " Open & edit file in Nerdtree
 nnoremap <Leader>f :NERDTreeToggle<Enter> 
-nnoremap <silent> <Leader>v :NERDTreeFind<CR>
+nnoremap <silent> <Leader>i :NERDTreeFind<CR>
